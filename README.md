@@ -23,21 +23,18 @@ A fully functional hr-management web application built by Keanan,Raeesa and Siya
 
 Follow these steps to run the web app on your local development environment:
 
-1.  **Prerequisites:**
-    * MySQL Server installed and running
-
-2.  **Clone the Repository:**
+1.  **Clone the Repository:**
     ```bash
     git clone https://github.com/keanan557/hr-system.github.io.git
     ```
 
-3.  **Install Dependencies (if using Composer):**
+2.  **Install Dependencies (if using Composer):**
     ```bash
     npm i
     
     ```
     
-4.  **Run the Development Server (Example using PHP's built-in server):**
+3.  **Run the Development Server :**
     ```bash
     npm run serve 
     ```
