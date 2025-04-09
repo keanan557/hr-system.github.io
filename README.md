@@ -23,7 +23,7 @@ A fully functional hr-management web application built by Keanan,Raeesa and Siya
 
 ## Setup Instructions
 
-Follow these steps to run the ReflectaHome website on your local development environment:
+Follow these steps to run the web app on your local development environment:
 
 1.  **Prerequisites:**
     * MySQL Server installed and running
@@ -70,9 +70,9 @@ Follow these steps to run the ReflectaHome website on your local development env
     Then, open your web browser and navigate to `http://localhost:8000`.
 
 ##Login details
-User: admin
-Pwd: admin
-role: finance
+* User: admin
+* Pwd: admin
+* role: finance
 
 ## Key Features
 This hr-management system implements the following key features:
