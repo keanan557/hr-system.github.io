@@ -18,8 +18,6 @@ A fully functional hr-management web application built by Keanan,Raeesa and Siya
 ## Technologies Used
 - **Front-end:** Vue
 - **Styling:** Custom CSS
-- **Back-end:** node
-- **Database:** MySQL
 
 ## Setup Instructions
 
@@ -32,7 +30,6 @@ Follow these steps to run the web app on your local development environment:
     ```bash
     git clone https://github.com/keanan557/PulseFit.git
     cd frontend and 
-    cd api
     ```
 
 3.  **Install Dependencies (if using Composer):**
@@ -40,23 +37,6 @@ Follow these steps to run the web app on your local development environment:
     npm i
     
     ```
-
-4.  **Database Setup:**
-    * Create a new database named `reflectahome` in your MySQL server.
-    * Import the database schema from the provided SQL file (`database/reflectahome.sql` - if applicable). You can do this using a MySQL client (like phpMyAdmin or MySQL Workbench) or the command line:
-        ```bash
-        mysql -u [your_mysql_username] -p reflectahome < database/reflectahome.sql
-        ```
-    * Configure the database connection details in your PHP configuration file (e.g., `config.php`, `.env`):
-        ```php
-        <?php
-        // Example configuration
-        define('DB_HOST', 'localhost');
-        define('DB_USER', 'your_db_user');
-        define('DB_PASS', 'your_db_password');
-        define('DB_NAME', 'reflectahome');
-        ?>
-        ```
 
 5.  **Web Server Configuration:**
     * Ensure your web server is configured to point to the project's `public` directory (or the main entry point of your application).
