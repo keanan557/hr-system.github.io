@@ -1,6 +1,6 @@
 ModernTech Solutions hr-management system
 
-[![Screenshot of Homepage](https://github.com/keanan557/images/blob/b1abeb2ea05f276082342636c216bc485895d5b1/Screenshot%202025-04-08%20142709.png)]()
+[![Screenshot of Homepage](https://github.com/keanan557/images/blob/b1abeb2ea05f276082342636c216bc485895d5b1/Screenshot%202025-04-08%20142709.png)](https://hr-system-github-io.vercel.app/)
 
 A fully functional hr-management web application built by Keanan,Raeesa and Siya for the Module 1 assignment. ModernTech offers a solution to hr managers making it easier manage their employees.
 
@@ -13,7 +13,7 @@ A fully functional hr-management web application built by Keanan,Raeesa and Siya
 - [Author](#author)
 
 ## Live Demo
-[Link to the live deployed website](pulsefit-live.vercel.app/)
+[Link to the live deployed website](https://hr-system-github-io.vercel.app/)
 
 ## Technologies Used
 - **Front-end:** Vue
@@ -69,8 +69,13 @@ Follow these steps to run the ReflectaHome website on your local development env
     ```
     Then, open your web browser and navigate to `http://localhost:8000`.
 
+##Login details
+User: admin
+Pwd: admin
+role: finance
+
 ## Key Features
-This e-commerce website implements the following key features:
+This hr-management system implements the following key features:
 
 * **User Login and Registration:** Secure user registration and login functionality.
 * **User Interface Design and UX/UI Principles:** A user-friendly and visually appealing design adhering to UX/UI best practices.
