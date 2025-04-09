@@ -28,7 +28,7 @@ Follow these steps to run the web app on your local development environment:
 
 2.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/keanan557/PulseFit.git
+    git clone https://github.com/keanan557/hr-system.github.io.git
     ```
 
 3.  **Install Dependencies (if using Composer):**
