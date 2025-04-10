@@ -61,9 +61,11 @@ This hr-management system implements the following key features:
 * Node : [https://nodejs.org/en]
 
 ## Author
-Keanan 
-Raeesa
-Siya
+* Keanan 
+* Raeesa
+* Siyavuya
 
-github.com/keanan557
-github.com/raebehardien1
+## Githubs
+* github.com/keanan557
+* github.com/raebehardien1
+* github.com/Siyavuyakhohlani
