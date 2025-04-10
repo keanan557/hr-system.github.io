@@ -38,7 +38,7 @@ Follow these steps to run the web app on your local development environment:
     ```bash
     npm run serve 
     ```
-    Then, open your web browser and navigate to `http://localhost:8000`.
+    Then, open your web browser and navigate to `example: http://localhost:8000`.
 
 ##Login details
 * User: admin
@@ -52,7 +52,7 @@ This hr-management system implements the following key features:
 * **User Interface Design and UX/UI Principles:** A user-friendly and visually appealing design adhering to UX/UI best practices.
 * **Responsive Design Implementation:** The website adapts seamlessly to various screen sizes (desktop, tablet, mobile).
 * **Authentication and User Management:** Secure authentication for users and potentially an administrative interface for managing the website.
-* **Product/Service Data Management:** [If implemented] An administrative interface for adding, editing, and deleting products.
+* **Product/Service Data Management:**  An administrative interface for adding, editing, and deleting products.
 
 ## Credits (If Applicable)
 [Acknowledge any libraries, frameworks, or resources used, e.g.:]
